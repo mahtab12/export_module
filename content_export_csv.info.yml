@@ -1,0 +1,16 @@
+name: Content Export CSV
+description: Exports Content in CSV
+type: module
+# core: 8.x
+# version: 1.0
+# Information added by Drupal.org packaging script on 2018-04-09
+# version: '8.x-1.0-alpha3'
+# core: '8.x'
+# project: 'content_export_csv'
+# datestamp: 1523276584
+
+# Information added by Drupal.org packaging script on 2018-04-16
+version: '8.x-1.0-beta1'
+core: '8.x'
+project: 'content_export_csv'
+datestamp: 1523879287
